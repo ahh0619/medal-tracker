@@ -1,0 +1,48 @@
+.MedalList {
+  width: 100%;
+  margin-top: 20px;
+  background-color: #e6e6fa;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.MedalList .medal-title,
+.MedalList .medal-info {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  align-items: center;
+  justify-items: center;
+  padding: 10px;
+}
+
+.MedalList .medal-title > span,
+.MedalList .medal-info > span {
+  text-align: center;
+}
+
+.MedalList .medal-title {
+  background-color: #003580;
+}
+
+.MedalList .medal-title > span {
+  color: #fff;
+  font-weight: 700;
+}
+
+.medal-info > button {
+  width: 60px;
+  height: 30px;
+  background-color: #dc3545;
+  border: none;
+  color: #fff;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.medal-info > button:hover {
+  background-color: #fe0c24;
+}
+
+.odd {
+  background-color: rgb(236, 236, 236);
+}

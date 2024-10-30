@@ -1,0 +1,38 @@
+.Editor {
+  display: flex;
+  justify-content: center;
+}
+
+.Editor .input-form {
+  display: flex;
+  align-items: flex-end;
+  gap: 20px;
+}
+
+.Editor .button-group {
+  display: flex;
+  gap: 10px;
+}
+
+.Editor .input-group {
+  display: flex;
+  gap: 20px;
+}
+
+.add-button,
+.update-button {
+  padding: 10px 20px;
+  background-color: #fc0;
+  color: #333;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 700;
+  align-self: center;
+}
+
+.add-button:hover,
+.update-button:hover {
+  background-color: #ffdd55;
+}

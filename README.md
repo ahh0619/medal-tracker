@@ -62,7 +62,7 @@
   ### - Editor.jsx : EditorItem을 담고있으며, 추가, 수정 함수를 App.jsx로부터 받아와서 새로운 formData를 전달한다.
   ### - EditorItem.jsx : Editor에 담겨질 컴포넌트로서 상황에 맞는 로직을 구현한다. ex)국가명, input타입 등.
   ### - MedalList.jsx : App.jsx로부터 medalData와 삭제함수를 받아와서 국가와 메달의 정보를 렌더링해주고, 삭제함수를 작동시킨다.
-  ### - 각 CSS : 충분히 유추가능했겠지만 각 컴포넌트별로 CSS를 분리해주었다.
+  ### - CSS : 각 컴포넌트의 CSS를 담고있다.
 
 
 

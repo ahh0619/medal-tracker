@@ -10,18 +10,22 @@ const MedalList = ({ medalData, deleteMedalData }) => {
         <span>동메달</span>
         <span>액션</span>
       </div>
-      {medalData.map((data, index) => (
-        <div
-          className={`medal-info ${index % 2 === 0 ? "even" : "odd"}`}
-          key={data.id}
-        >
-          <span>{data.country}</span>
-          <span>{data.gold}</span>
-          <span>{data.silver}</span>
-          <span>{data.bronze}</span>
-          <button onClick={() => deleteMedalData(data.id)}>삭제</button>
-        </div>
-      ))}
+      {medalData.length > 0 ? (
+        medalData.map((data, index) => (
+          <div
+            className={`medal-info ${index % 2 === 0 ? "even" : "odd"}`}
+            key={data.id}
+          >
+            <span>{data.country}</span>
+            <span>{data.gold}</span>
+            <span>{data.silver}</span>
+            <span>{data.bronze}</span>
+            <button onClick={() => deleteMedalData(data.id)}>삭제</button>
+          </div>
+        ))
+      ) : (
+        <div className="no-data">국가와 메달 정보가 없습니다.</div>
+      )}
     </div>
   );
 };

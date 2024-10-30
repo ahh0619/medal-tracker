@@ -1,12 +1,6 @@
 # 🕊 입문주차 개인과제
 # Olympic Medal Tracker 만들기 
-## ✨ 목표 정하기
-- **웹 개발** 전반의 **흐름**과 **팀과의 작업**이 어떤 흐름으로 흘러가는지 이해할 수 있습니다.
-- **Modal**을 이용하여 팀원들의 정보를 화면에 구현하였습니다.
-- **오픈API**를 활용해 사용자의 **날짜 및 날씨정보**를 구현할 수 있습니다.
-- **CRUD**를 활용하고 구현할 수 있습니다.
-
-- 🔭[배포용 링크] https://medal-tracker-tau.vercel.app/
+- 🔭[배포용 링크](https://medal-tracker-tau.vercel.app/)
 - 🔭[블로그 포스팅1] https://velog.io/@hhyun19/%EA%B0%9C%EC%9D%B8%EA%B3%BC%EC%A0%9C-%EC%98%AC%EB%A6%BC%ED%94%BD-%EB%A9%94%EB%8B%AC-%ED%8A%B8%EB%9E%99%EC%BB%A4-%EB%A7%8C%EB%93%A4%EA%B8%B0
 - 🔭[블로그 포스팅2] https://velog.io/@hhyun19/%EA%B0%9C%EC%9D%B8%EA%B3%BC%EC%A0%9C-%EC%98%AC%EB%A6%BC%ED%94%BD-%EB%A9%94%EB%8B%AC-%ED%8A%B8%EB%9E%99%EC%BB%A4-%EB%A7%8C%EB%93%A4%EA%B8%B02
 - 🔭[블로그 포스팅3 (예정)]

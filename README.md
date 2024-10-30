@@ -1,8 +1,8 @@
 # 🕊 입문주차 개인과제
 # Olympic Medal Tracker 만들기 
 - 🔭[배포용 링크](https://medal-tracker-tau.vercel.app/)
-- 🔭[블로그 포스팅1] https://velog.io/@hhyun19/%EA%B0%9C%EC%9D%B8%EA%B3%BC%EC%A0%9C-%EC%98%AC%EB%A6%BC%ED%94%BD-%EB%A9%94%EB%8B%AC-%ED%8A%B8%EB%9E%99%EC%BB%A4-%EB%A7%8C%EB%93%A4%EA%B8%B0
-- 🔭[블로그 포스팅2] https://velog.io/@hhyun19/%EA%B0%9C%EC%9D%B8%EA%B3%BC%EC%A0%9C-%EC%98%AC%EB%A6%BC%ED%94%BD-%EB%A9%94%EB%8B%AC-%ED%8A%B8%EB%9E%99%EC%BB%A4-%EB%A7%8C%EB%93%A4%EA%B8%B02
+- 🔭[블로그 포스팅1](https://velog.io/@hhyun19/%EA%B0%9C%EC%9D%B8%EA%B3%BC%EC%A0%9C-%EC%98%AC%EB%A6%BC%ED%94%BD-%EB%A9%94%EB%8B%AC-%ED%8A%B8%EB%9E%99%EC%BB%A4-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+- 🔭[블로그 포스팅2](https://velog.io/@hhyun19/%EA%B0%9C%EC%9D%B8%EA%B3%BC%EC%A0%9C-%EC%98%AC%EB%A6%BC%ED%94%BD-%EB%A9%94%EB%8B%AC-%ED%8A%B8%EB%9E%99%EC%BB%A4-%EB%A7%8C%EB%93%A4%EA%B8%B02)
 - 🔭[블로그 포스팅3 (예정)]
 <br>
 

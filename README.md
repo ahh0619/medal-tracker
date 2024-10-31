@@ -9,7 +9,7 @@
 
 - 🔭[블로그 포스팅2](https://velog.io/@hhyun19/%EA%B0%9C%EC%9D%B8%EA%B3%BC%EC%A0%9C-%EC%98%AC%EB%A6%BC%ED%94%BD-%EB%A9%94%EB%8B%AC-%ED%8A%B8%EB%9E%99%EC%BB%A4-%EB%A7%8C%EB%93%A4%EA%B8%B02)
 
-- 🔭[블로그 포스팅3 (예정)]
+- 🔭[블로그 포스팅3](https://velog.io/@hhyun19/%EA%B0%9C%EC%9D%B8%EA%B3%BC%EC%A0%9C-%EC%98%AC%EB%A6%BC%ED%94%BD-%EB%A9%94%EB%8B%AC-%ED%8A%B8%EB%9E%99%EC%BB%A4-%EB%A7%8C%EB%93%A4%EA%B8%B03)
 <br>
 
 ## 💻기술 스택

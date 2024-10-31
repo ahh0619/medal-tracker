@@ -35,7 +35,7 @@ const Editor = ({ addMedalData, updateMedalData }) => {
 
   const handleUpdate = () => {
     if (!formData.country) {
-      alert("해당 국가명이 없습니다.");
+      alert("국가명을 입력해주세요.");
       return;
     }
     updateMedalData(formData);

@@ -15,7 +15,7 @@ const Editor = ({ addMedalData, updateMedalData }) => {
     setFormData({
       ...formData,
       id: new Date().getTime(),
-      [name]: name === "country" ? value : Math.min(parseInt(value, 10)),
+      [name]: name === "country" ? value : parseInt(value, 10),
     });
   };
 

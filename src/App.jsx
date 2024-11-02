@@ -5,14 +5,10 @@ import Header from "./components/Header";
 import MedalList from "./components/MedalList";
 
 function App() {
-  const [medalData, setMedalData] = useState([]);
-
-  useEffect(() => {
+  const [medalData, setMedalData] = useState(() => {
     const storedMedalData = localStorage.getItem("medalDatas");
-    if (storedMedalData) {
-      setMedalData(JSON.parse(storedMedalData));
-    }
-  }, []);
+    return storedMedalData ? JSON.parse(storedMedalData) : [];
+  });
 
   useEffect(() => {
     localStorage.setItem("medalDatas", JSON.stringify(medalData));
